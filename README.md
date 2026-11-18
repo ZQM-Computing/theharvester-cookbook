@@ -35,6 +35,8 @@ OSINT practitioners who enumerate domains, emails, and hosts passively.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-crtsh-passive` | Passive certificate-transparency enumeration with crt.sh |
